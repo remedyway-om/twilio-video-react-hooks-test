@@ -10,7 +10,8 @@
     "react-dom": "^17.0.2",
     "react-scripts": "^5.0.1",
     "twilio": "^3.69.0",
-    "twilio-video": "^2.17.1"
+    "twilio-video": "^2.17.1",
+    "utils": "^0.3.1"
   },
   "scripts": {
     "start": "react-scripts start",
